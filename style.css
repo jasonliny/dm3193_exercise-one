@@ -1,3 +1,12 @@
 body {
   box-sizing: border-box;
+  margin: 0;
+}
+
+header {
+  background-color: #85c4ff;
+  padding: 40px;
+}
+
+header nav a {
 }
